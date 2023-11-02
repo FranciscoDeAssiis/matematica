@@ -11,3 +11,4 @@ while True:
     parcela2 = Uteis.input_number('Segunda parcela: ')
     soma = soma(parcela1, parcela2)
     print(soma)
+

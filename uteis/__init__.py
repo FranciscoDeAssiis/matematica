@@ -10,6 +10,7 @@ class Uteis:
         :param format_number: (int) Casas decimais para formatação (default: 0).
         :return: (int ou float): Número inserido pelo usuário.
         """
+
         style = style.upper()
         if style == 'RED':
             id_color = 31

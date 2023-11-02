@@ -2,6 +2,14 @@ class Uteis:
 
     @staticmethod
     def input_number(txt='Digite: ', style='blue', format_number=0) -> [int, float]:
+        """
+        Solicita e converte um número (inteiro ou flutuante) com estilo de texto colorido.
+
+        :param txt: (str) Mensagem exibida para o usuário.
+        :param style: (str) Estilo de cor do texto (default: 'blue').
+        :param format_number: (int) Casas decimais para formatação (default: 0).
+        :return: (int ou float): Número inserido pelo usuário.
+        """
         style = style.upper()
         if style == 'RED':
             id_color = 31

@@ -2,8 +2,8 @@
 
 # Nª Primo: Quando for divisível somente por 1 E ele mesmo.
 # Ex:
-#   2, 3, 5, 7, 11, 13, 17, ...
-#   2 é o único primo par, todos os outros são ímpares.
+#   2, 3, 5, 7, 11, 13, 17, ... (divisíveis por 1 e por ele mesmo)
+#   Obs: 2 é o único primo par, todos os outros são ímpares.
 
 # Nª Composto: Quando possuir outros divisores além do número 1 e ele mesmo.
 # Ex:

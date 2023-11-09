@@ -16,12 +16,11 @@ def expressão_numérica(exp: str):
         exp = exp[:ini] + str(eval(parênteses)) + exp[fin+1:]
         print(exp)
 
+    # Colchetes:
     if '[' in exp:
-        # # Colchetes:
         ini = exp.find('[')
         fin = exp.find(']')
         colchetes = exp[ini+1: fin]
-
         exp = exp[:ini] + str(eval(colchetes)) + exp[fin+1:]
         print(exp)
 

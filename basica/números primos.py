@@ -1,11 +1,11 @@
 # IN = {0, 1, 2, 3, 4, ...}
 
-# Nª Primo: Quando for divisível somente por 1 E ele mesmo.
+# Nº Primo: Quando for divisível somente por 1 E ele mesmo.
 # Ex:
 #   2, 3, 5, 7, 11, 13, 17, ... (divisíveis por 1 e por ele mesmo)
 #   Obs: 2 é o único primo par, todos os outros são ímpares.
 
-# Nª Composto: Quando possuir outros divisores além do número 1 e ele mesmo.
+# Nº Composto: Quando possuir outros divisores além do número 1 e ele mesmo.
 # Ex:
 #   12 é divisível por 1, 12, 4, 6
 #   21 é divisível por 1, 21, 3, 7
@@ -16,7 +16,7 @@
 
 # Como saber se um número natural é primo?
 # Regra:
-#   O Nª é primo se as divisões sucessivas
+#   O Nº é primo se as divisões sucessivas
 #   por números primos resultarem resto
 #   diferente de zero até o divisor ser
 #   maior ou igual ao quociente.

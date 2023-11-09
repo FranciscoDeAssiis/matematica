@@ -7,9 +7,9 @@
 
 # Nª Composto: Quando possuir outros divisores além do número 1 e ele mesmo.
 # Ex:
-#   12 - 1, 12, 4, 6
-#   21 - 1, 21, 3, 7
-#   25 - 1, 25, 5
+#   12 é divisível por 1, 12, 4, 6
+#   21 é divisível por 1, 21, 3, 7
+#   25 é divisível por 1, 25, 5
 #   ...
 # Obs: Todos os números compostos podem ser transformados em fatores primos.
 

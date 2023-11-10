@@ -11,8 +11,8 @@
 </ul>
 
 ### Revisão:
-* Expressões numéricas
-** 1º (), 2º[], 3º{}
-** 1º potências ou raízes
-** 2º multiplicação ou divisão
-** 3º adição ou subtração
+#### Expressões numéricas
+* 1º (), 2º[], 3º{}
+* 1º potências ou raízes
+* 2º multiplicação ou divisão
+* 3º adição ou subtração

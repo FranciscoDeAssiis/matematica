@@ -22,3 +22,6 @@
     <li>º multiplicação ou divisão</li>
     <li>º adição ou subtração</li>
 </ol>
+#### Divisibilidades:
+##### Por 2:
+

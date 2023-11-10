@@ -16,11 +16,9 @@
     <li>ºº ()</li>
     <li>ºº []</li>
     <li>ºº {}</li>
-    <ol>
-        <li>º potências ou raízes</li>
-        <li>º multiplicação ou divisão</li>
-        <li>º adição ou subtração</li>
-    </ol>
 </ol>
-
-
+<ol>
+    <li>º potências ou raízes</li>
+    <li>º multiplicação ou divisão</li>
+    <li>º adição ou subtração</li>
+</ol>

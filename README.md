@@ -29,9 +29,9 @@
 <li>Por 4: Quando os dois últimos algarismos formarem um número divisível por 4.</li>
 <li>Por 5: Quando o último algarismo for um número divisível por 0 ou 5.</li>
 <li>Por 6: Quando o número é divisível por 2 E 3.</li>
-<li>Por 7: Quando a divisão da soma dos restos(com sinais alternados) dos grupos com no máximo 3 algarismos for um número divisível por 7.</li>
+<li>Por 7: Quando a divisão da soma dos restos, considerando sinais alternados, dos grupos de algarismos com no máximo 3 dígitos resulta em um número divisível por 7.</li>
 <li>Por 8: Quando os três últimos algarismos formarem um número divisível por 8.</li>
 <li>Por 9: Quando a soma dos algorismos for um número divisível por 9.</li>
 <li>Por 10: Quando o último algarismo por 0.</li>
-<li>Por 11: Quando o resultado da subtração da soma dos algarismos em posições pares da soma dos algarismos em posições ímpares for divisível por 11.</li>
+<li>Por 11: Quando a diferença entre a soma dos algarismos em posições pares e a soma dos algarismos em posições ímpares é divisível por 11..</li>
 <li>Por 12, 13, ...: Quando encontrar dois números cuja multiplicação seja igual ao divisor. Em seguida, verifica se o divisor é divisível por cada um desses números. Outra forma, quando o resto for igual a 0.</li>

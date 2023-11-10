@@ -9,3 +9,18 @@
     <li>Expressões Numéricas ()[]{}</li>
 	<li>Critérios de divisibilidade (se é divisível por tal número)</li>
 </ul>
+### Revisão:
+<ul>
+    <li>Expressões Numéricas</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    
+ 
+</ul>

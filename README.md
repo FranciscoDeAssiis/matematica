@@ -35,3 +35,7 @@
 <li>Por 10: Quando o último algarismo por 0.</li>
 <li>Por 11: Quando a diferença entre a soma dos algarismos em posições pares e a soma dos algarismos em posições ímpares é divisível por 11..</li>
 <li>Por 12, 13, ...: Quando encontrar dois números cuja multiplicação seja igual ao divisor. Em seguida, verifica se o divisor é divisível por cada um desses números. Outra forma, quando o resto for igual a 0.</li>
+
+#### Números Primos:
+<li>Primo: Quando for divisível somente por 1 E ele mesmo ou quando o divisor for igual ou maior que o quociente. 2 é o único primo par.</li>
+<li>Composto: Quando possuir outros divisores além do número 1 e ele mesmo.</li>

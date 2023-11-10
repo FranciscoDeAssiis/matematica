@@ -24,7 +24,14 @@
 </ol>
 
 #### Divisibilidades:
-##### Por 2:
-<li>Todos os números pares terminados em 0, 2, 4, 6 e 8.</li>
-
-#### Por 3:
+<li>Por 2: Todos os números pares terminados em 0, 2, 4, 6 e 8.</li>
+<li>Por 3: Quando a soma dos algarismos for divisível por 3</li>
+<li>Por 4: </li>
+<li>Por 5: </li>
+<li>Por 6: </li>
+<li>Por 7: </li>
+<li>Por 8: </li>
+<li>Por 9: </li>
+<li>Por 10: </li>
+<li>Por 11: </li>
+<li>Por 12, 13, ...:</li>

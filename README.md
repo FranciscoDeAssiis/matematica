@@ -13,9 +13,9 @@
 ### Revisão:
 #### Expressões numéricas:
 <ol>
-    <li>ºº ()</li>
-    <li>ºº []</li>
-    <li>ºº {}</li>
+    <li>º ()</li>
+    <li>º []</li>
+    <li>º {}</li>
 </ol>
 <ol>
     <li>º potências ou raízes</li>

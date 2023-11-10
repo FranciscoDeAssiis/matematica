@@ -22,6 +22,9 @@
     <li>º multiplicação ou divisão</li>
     <li>º adição ou subtração</li>
 </ol>
+
 #### Divisibilidades:
 ##### Por 2:
+<li>Todos os números pares terminados em 0, 2, 4, 6 e 8.</li>
 
+#### Por 3:
